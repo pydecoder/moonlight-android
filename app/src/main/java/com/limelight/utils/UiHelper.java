@@ -14,7 +14,7 @@ import android.graphics.Insets;
 import android.os.Build;
 import android.os.LocaleList;
 import android.preference.PreferenceManager;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import android.util.TypedValue;
 import android.view.View;
 import android.view.Window;

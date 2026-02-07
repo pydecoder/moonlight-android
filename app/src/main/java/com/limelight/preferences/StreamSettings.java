@@ -20,7 +20,7 @@ import android.preference.PreferenceCategory;
 import android.preference.PreferenceFragment;
 import android.preference.PreferenceManager;
 import android.preference.PreferenceScreen;
-import android.support.v4.content.FileProvider;
+import androidx.core.content.FileProvider;
 import android.text.InputFilter;
 import android.text.InputType;
 import android.text.TextUtils;

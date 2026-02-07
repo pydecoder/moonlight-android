@@ -72,7 +72,7 @@
             android:preferKeepClear="true"
             android:visibility="gone" />
 
-        <android.support.v7.widget.AppCompatTextView
+        <androidx.appcompat.widget.AppCompatTextView
             android:id="@+id/performanceOverlayLite"
             tools:text="延迟/解码：109ms/7ms 丢包率：69% FPS：60"
             android:textSize="10sp"

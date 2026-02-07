@@ -2,8 +2,8 @@ package com.limelight.utils;
 
 import android.os.Handler;
 import android.os.Looper;
-import android.support.annotation.CallSuper;
-import android.support.annotation.IntRange;
+import androidx.annotation.CallSuper;
+import androidx.annotation.IntRange;
 import android.util.Log;
 
 import java.util.HashMap;
